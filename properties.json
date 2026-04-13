@@ -5,10 +5,10 @@
   "apps": [
     {
       "id": 1,
-      "title": "SimpleDimple",
-      "version": "000",
-      "author": "no",
-      "description": "Обычное приложение заме01101001рафий",
+      "title": "OpenStore",
+      "version": "0.0",
+      "author": "custom.repo",
+      "description": "проверка кастом репозитория. будет скачиваться файл SimpleNotes. категория музыка+видео",
       "icon_url": "https://dvltvv.github.io/open-store/icons/ttt.png",
       "download_url": "https://dvltvv.github.io/open-store/files/SimpleNotes.xap",
       "size": "0,6 MB",
@@ -16,13 +16,24 @@
     },
     {
       "id": 2,
-      "title": "YandexWebcam",
-      "version": "e",
-      "author": "Sv)",
-      "description": "9kgmnfgfм",
+      "title": "Check",
+      "version": "ё",
+      "author": "custom.repo",
+      "description": "проверка кастом репозитория #2. будет скачиваться файл SimpleTasks. категория обучение",
       "icon_url": "https://dvltvv.github.io/open-store/icons/ttt.png",
       "download_url": "https://dvltvv.github.io/open-store/files/SimpleTasks.xap",
-      "size": "32MB",
+      "size": "67",
+      "category": "Education"
+    },
+    {
+      "id": 3,
+      "title": "Slither.io",
+      "version": "",
+      "author": "custom.repo",
+      "description": "Червячки слизарио. ползет ползет",
+      "icon_url": "https://dvltvv.github.io/open-store/icons/Slither-io.png",
+      "download_url": "https://dvltvv.github.io/open-store/files/Slither-io.appx",
+      "size": "67",
       "category": "Education"
     }
   ]
