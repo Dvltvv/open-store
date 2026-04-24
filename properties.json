@@ -4,15 +4,25 @@
   "last_updated": "2026-08-04",
   "apps": [
     {
-      "id": 1,
+      "id": "example.app",
       "title": "OpenStore",
-      "version": "0.0",
+      "version": "2.0",
       "author": "custom.repo",
       "description": "проверка кастом репозитория. будет скачиваться файл SimpleNotes. категория музыка+видео",
       "icon_url": "https://dvltvv.github.io/open-store/icons/ttt.png",
       "download_url": "https://dvltvv.github.io/open-store/files/SimpleNotes.xap",
       "size": "0,6 MB",
       "category": "Music+video"
+    },
+    {
+      "id": "example.app",
+      "version": "1.0",
+      "download_url": "https://dvltvv.github.io/open-store/files/SimpleNotes.xap",
+    },
+    {
+      "id": "example.app",
+      "version": "0.0",
+      "download_url": "https://dvltvv.github.io/open-store/files/SimpleNotes.xap",
     },
     {
       "id": 2,
