@@ -14,16 +14,7 @@
       "size": "0,6 MB",
       "category": "Music+video"
     },
-    {
-      "id": "example.app",
-      "version": "1.0",
-      "download_url": "https://dvltvv.github.io/open-store/files/SimpleNotes.xap",
-    },
-    {
-      "id": "example.app",
-      "version": "0.0",
-      "download_url": "https://dvltvv.github.io/open-store/files/SimpleNotes.xap",
-    },
+    
     {
       "id": 2,
       "title": "Check",
